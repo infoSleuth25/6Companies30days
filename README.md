@@ -7,3 +7,6 @@
 
 3rd January, 2024 :
 - Bulls and Cows
+
+7th January, 2024 :
+- First unique character in a string
