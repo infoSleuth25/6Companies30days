@@ -10,3 +10,6 @@
 
 7th January, 2024 :
 - First unique character in a string
+
+8th January, 2024 :
+- Longest Mountain in an array
